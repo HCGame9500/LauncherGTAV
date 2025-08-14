@@ -3,29 +3,5 @@
     "name": "System",
     "message": "Добро пожаловать в чат!",
     "time": "2025-08-14 12:00"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "Привет",
-    "ts": "2025-08-14 15:46:00 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "где новые смс?",
-    "ts": "2025-08-14 15:46:17 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "текст",
-    "ts": "2025-08-14 15:47:54 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "что будет теперь ?",
-    "ts": "2025-08-14 15:48:12 UTC"
   }
 ]
