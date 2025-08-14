@@ -3,53 +3,5 @@
     "name": "System",
     "message": "Добро пожаловать в чат!",
     "time": "2025-08-14 12:00"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "12",
-    "ts": "2025-08-14 15:14:46 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "sasdas",
-    "ts": "2025-08-14 15:14:50 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "12",
-    "ts": "2025-08-14 15:19:40 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "1",
-    "ts": "2025-08-14 15:19:55 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "Привет",
-    "ts": "2025-08-14 15:21:30 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "раз два",
-    "ts": "2025-08-14 15:27:35 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "раз",
-    "ts": "2025-08-14 15:31:06 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "Как настроение ?",
-    "ts": "2025-08-14 15:31:21 UTC"
   }
 ]
