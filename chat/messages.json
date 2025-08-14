@@ -3,41 +3,5 @@
     "name": "System",
     "message": "Добро пожаловать в чат!",
     "time": "2025-08-14 12:00"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "тест",
-    "ts": "2025-08-14 15:33:01 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "ййй",
-    "ts": "2025-08-14 15:34:03 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "проверка",
-    "ts": "2025-08-14 15:34:18 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "проверка",
-    "ts": "2025-08-14 15:35:55 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "123",
-    "ts": "2025-08-14 15:40:22 UTC"
-  },
-  {
-    "user": "OBTest",
-    "hwid": "f3320a5b60f2ca4986ee73f3c1619dff",
-    "text": "тестим",
-    "ts": "2025-08-14 15:40:27 UTC"
   }
 ]
